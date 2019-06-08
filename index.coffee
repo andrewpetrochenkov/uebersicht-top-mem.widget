@@ -6,7 +6,7 @@ update: (output, domEl) ->
     $(domEl).empty().append("#{output}")
 
 style: """
-right: 6%
+right: 8%
 top: 2%
 text-align: left
 font-family:monospace
